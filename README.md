@@ -10,8 +10,11 @@ To build the model, I began by creating a training set and a testing set. The tr
 
 ## Results
 Machine Learning Model 1:
+
 •	Accuracy: According to the classification report, the model had an average of 99% accuracy.
+
 •	Precision: The model was 100% precise when predicting the precision of healthy loans, and 87% precise for high-risk loans. The macro average of both combined is 94%, while the weighted average is 99%.
+
 •	Recall: The model was 100% precise when predicting the recall of healthy loans, and 95% precise for high-risk loans. The macro average of both combined is 97%, while the weighted average is 99%.
 
 ## Summary
